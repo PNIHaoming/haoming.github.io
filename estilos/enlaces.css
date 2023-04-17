@@ -1,0 +1,25 @@
+#indice li>a:link {
+    color: red;
+    text-decoration: none;
+}
+#indice li>a:hover{
+    background-color: white;
+    color: gray;
+    text-transform: uppercase;
+}
+#indice li>a:visited{
+    color: red;
+    font-style: italic;
+    text-decoration: none;
+}
+a:link{
+    color: green;
+    text-decoration: none;
+}
+a:hover{
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    color: teal;
+    font-style: normal;
+}
